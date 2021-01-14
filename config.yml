@@ -16,7 +16,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: ''
+  site_logo: 'ZIG-ZAG-LABEL-N.jpg'
   description: Exemple de site.
   facebook: ''
   twitter: ''

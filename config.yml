@@ -1,13 +1,13 @@
 ---
 baseURL: "/"
-languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+languageCode: "fr-fr"
+title: "Site de démo"
 
 module:
   imports:
     - path: github.com/theNewDynamic/gohugo-theme-ananke
 
-DefaultContentLanguage: en
+DefaultContentLanguage: fr
 SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ''
@@ -19,9 +19,9 @@ sitemap:
 params:
   favicon: ''
   site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  description: Exemple de site.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: ''
   instagram: ''
   youtube: ''
   github: ''

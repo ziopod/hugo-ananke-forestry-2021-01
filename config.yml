@@ -29,6 +29,7 @@ params:
   slack: ''
   stackoverflow: ''
   rss: ''
+  body_classes: 'baskerville'
   background_color_class: bg-black
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2

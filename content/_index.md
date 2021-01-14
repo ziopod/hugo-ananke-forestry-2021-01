@@ -1,6 +1,6 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+title: Bienvenue
+featured_image: "/images/Victor_Hugo-Hunchback.jpg"
 description: The last theme you'll ever need. Maybe.
 menu:
   main:
@@ -8,4 +8,6 @@ menu:
     weight: 1
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bienvenue sur ce site de **démonstration**.
+
+![](/images/Pope-Edouard-de-Beaumont-1844.jpg)
